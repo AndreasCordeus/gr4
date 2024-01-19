@@ -8,6 +8,12 @@ För att testa lokalt följ nedan steg:
 3.  Kör programmet genom terminalen genom att skriva "Dotnet run".
 4.  Programmet kommer nu i terminalen be dig skriva in ett personnummer för att sedan testa om det stämmer.
 
+För att testa via docker följ nedan steg:
+1. Använd gitbash eller liknande för att klona ner projektet, docker behöver även köras i bakgrunden.
+2. I gitbash skriv: docker pull andreascordeus/gr4-docker
+3. När nedladdningen är klar skriv docker images i Gitbash för att se att projektet finns.
+4. För att nu kunna köra behöver man skriva in: winpty docker run -it andreascordeus/gr4-docker
+
 
 
 Hur svenska personnummer fungerar:
