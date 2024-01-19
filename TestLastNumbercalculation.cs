@@ -12,6 +12,7 @@ public class TestLastNumberCalculation {
     }
         [Fact]
     public void TestValidateSocialSecurityNumber_ReturnFalse() {
+
         string personNr = "9001152396";
 
         bool result = LastNumberCalculation.ValidateSocialSecurityNumber(personNr);
