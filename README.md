@@ -2,7 +2,7 @@ Grupp 4.
 
 För att testa lokalt följ nedan steg:
 
-1.  Använd Gitbash eller liknande för att klona ner projektet med kommando git clone https://github.com/AndreasCordeus/Grupp4.git alternativt ladda ner Zip genom att trycka på den gröna "Code" rutan i github och Download Zip.
+1.  Använd Gitbash eller liknande för att klona ner projektet med kommando git clone https://github.com/AndreasCordeus/Gr4.git alternativt ladda ner Zip genom att trycka på den gröna "Code" rutan i github och Download Zip.
     Öppna mappen med Visual studio eller Visual studio code.
 2.  Kör programmet genom terminalen genom att skriva "Dotnet run".
 3.  Programmet kommer nu i terminalen be dig skriva in ett personnummer för att sedan testa om det stämmer.
