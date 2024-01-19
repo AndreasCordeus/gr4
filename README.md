@@ -12,9 +12,7 @@ För att testa lokalt följ nedan steg:
 
 Hur svenska personnummer fungerar:
 
-Den näst sista siffran i ett svensk personnummer alltså: xxxxxx-xx0x där 0:an representerar den siffra bestämmer kön på personen. Är det ett jämnt nummer är personen en kvinna, ett udda nummer är personen en man.
-
-Svenska personnummer har även en kontrollsiffra som sista siffra alltså det som nummer 0 står för här: xxxxxx-xxx0 Denna siffra kan räknas ut genom att använda "Luhn-algoritmen" som funkar enligt nedan:
+Svenska personnummer har en kontrollsiffra som sista siffra alltså det som nummer 0 står för här: xxxxxx-xxx0 Denna siffra kan räknas ut genom att använda "Luhn-algoritmen" som funkar enligt nedan:
 
 Exempel för personnumret 811218-987f:
 
@@ -35,3 +33,5 @@ Denna summa subtraheras från närmast högre tiotal, eller från sig självt om
 Kontrollsiffran f är alltså 6 och hela personnumret blir 811218-9876.
 
 Vårt program genomför kontrollen av kontrollsiffran genom att köra Luhn algoritmen på ett inmatat personnummer, är personnumret inte korrekt kommer programmet be dig att köra igen.
+
+Git-actions körs på två olika personnummer, ett som är riktigt och ett som är falskt.
