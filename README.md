@@ -18,6 +18,7 @@ Svenska personnummer har även en kontrollsiffra som sista siffra alltså det so
 Exempel för personnumret 811218-987f:
 
 8 1 1 2 1 8 9 8 7
+
 2 1 2 1 2 1 2 1 2
 
 ^ ^ ^ ^ ^ ^ ^ ^ ^ 
