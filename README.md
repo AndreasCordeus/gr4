@@ -41,3 +41,6 @@ Kontrollsiffran f är alltså 6 och hela personnumret blir 811218-9876.
 Vårt program genomför kontrollen av kontrollsiffran genom att köra Luhn algoritmen på ett inmatat personnummer, är personnumret inte korrekt kommer programmet be dig att köra igen.
 
 Git-actions körs på två olika personnummer, ett som är riktigt och ett som är falskt.
+
+Länk till figma för detta projekt:
+https://www.figma.com/file/4TuPuIaIm989tdGQSkwIGW/Grupp-4?type=whiteboard&node-id=0-1&t=QlL2nAY38qUK9Iax-0
