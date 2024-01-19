@@ -20,6 +20,7 @@ Exempel för personnumret 811218-987f:
 8 1 1 2 1 8 9 8 7
 2 1 2 1 2 1 2 1 2
 ^ ^ ^ ^ ^ ^ ^ ^ ^ 
+
 16 1 2 2 2 8 18 8 14
 
 Produkterna ska sedan splittras upp och adderas.
